@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">scan_app</string>
+    <string name="title_activity_main">scan_app</string>
+    <string name="package_name">com.test.tom</string>
+    <string name="custom_url_scheme">com.test.tom</string>
+</resources>
